@@ -1,0 +1,22 @@
+.logo{
+    width: 150px;
+    height: 120px;
+    padding-bottom: 15px;
+ }
+ .header{
+    background-color: black;
+ }
+
+ button{
+        width: 80px;
+        height: 40px;
+        float: right;
+        margin-top: 40px;
+        margin-right: 30px;
+  
+ }
+ .row{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}

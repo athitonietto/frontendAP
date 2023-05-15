@@ -1,0 +1,36 @@
+#prtf{
+    text-align: center;
+    width: 100%;
+}
+.proyectos{
+    background-image: url(../../../assets/dispersion-abstract.jpg);
+    background-size:cover;
+    color: white;
+    padding: 5%;
+    width: 100%;
+}
+.row{
+    background-color: rgb(0, 0, 0, 0.356);
+    width: 100%;
+    
+}
+.col-md{
+    margin: 0px auto;
+}
+.text-center{  
+    margin: 0px auto;
+}
+.tp:hover{
+    box-shadow: 0 0 10px rgb(255, 255, 255); 
+}
+.subs{
+    font-size: larger;
+    padding-top: 5%;
+    width: 100%;
+ }
+ .tp{
+        width: 80%;
+        border-radius: 20px;
+        text-align: center;
+ }
+ 

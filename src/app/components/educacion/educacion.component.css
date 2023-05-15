@@ -1,0 +1,13 @@
+.educacion{
+    background-image: url(../../../assets/dispersion-abstract.jpg);
+    background-size:cover;
+    text-align: center;
+    padding: 5%;
+    width: 100%;
+    margin: 0%;
+    color: white;
+}
+.row{background-color: rgb(0, 0, 0, 0.356);}
+.col{
+    text-align: left;
+}

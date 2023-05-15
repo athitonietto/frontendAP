@@ -1,0 +1,44 @@
+
+.sobremi{
+    background-image: url(../../../assets/dispersion-abstract.jpg);
+    background-size:cover;
+    text-align: center;
+    padding: 4%;
+    width: 100%;
+    margin: 0%;
+    color: rgb(255, 255, 255);
+    
+}
+.fotoperfil{
+    margin-top: 100px;
+    padding: 0;
+    margin-right: 20px;
+
+}
+#fotoperfil{
+    height: 280px;
+    width: 240px;
+    border-radius: 5%;
+   
+   
+}
+
+.desc{
+    background-color: rgba(0, 0, 0, 0.356);
+margin-top: 140px;
+margin-bottom: 50px;
+}
+.nombree{
+    margin-right: 80px;
+    background-color: rgb(0, 0, 0, 0.356);
+    margin-top: 100px;
+    
+}
+h3{
+    text-align: left;
+}
+#nombre{
+    text-align: left;
+}
+
+
